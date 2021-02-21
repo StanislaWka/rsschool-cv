@@ -24,3 +24,4 @@ Bachelor of science in computer engineering, systems and networks (Focus on prog
 **Extra-curricular activities:** Member of club UNESCO [“Milki way”](https://belau.info/kluby_unesko_belarus/minsk-obl/klub_unesko__mlechnyj_put__/) (Volunteering work, project organization). represented the Minsk region at the Republican Olympiad in mathematics.
 
 **Personal interests:** Strong Interest in Programming and hardware, Passion for Sports (Football, skiing, volleyball).
+exmple of my code
